@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
 
-- 💬 Ask me about **Business analysis and strategy planning**
+- 💬 Ask me about **business analysis and strategy planning**
 
 - 📫 How to reach me **maurinewamb@gmail.com**
 
