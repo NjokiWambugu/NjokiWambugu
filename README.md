@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [My data analysis portfolio](https://github.com/NjokiWambugu/Data_Analysis_Portfolio)
 
-- 🌱 I’m currently learning **Statistics and Risk Management**
+- 🌱 I’m currently learning **Project Management **
 
 - 👨‍💻 All of my projects are available at [https://github.com/NjokiWambugu/Data_Analysis_Portfolio](https://github.com/NjokiWambugu/Data_Analysis_Portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
 
-- 💬 Ask me about **business analysis and strategy planning**
+- 💬 Ask me about **strategy planning and business analysis**
 
 - 📫 How to reach me **maurinewamb@gmail.com**
 
