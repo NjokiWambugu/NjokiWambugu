@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maurine Wambugu</h1>
-<h3 align="center">Passionate data analyst dedicated to transforming data into impactful insights that drive success.</h3>
-
-- 🔭 I’m currently working on [My data analysis portfolio](https://github.com/NjokiWambugu/Data_Analysis_Portfolio)
+<h1 align="center">Hi 👋, I'm Njoki Wambugu</h1>
+<h3 align="center">Passionate data analyst and aspiring project manager dedicated to transforming data into impactful insights that drive success.</h3>
 
 - 🌱 I’m currently learning **Project Management **
 
