@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Project Management **
 
+- 💻 Here is my porfolio project[https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md](https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md)
+
 - 👨‍💻 All of my projects are available at [https://github.com/NjokiWambugu/Data_Analysis_Portfolio](https://github.com/NjokiWambugu/Data_Analysis_Portfolio)
 
 - 📝 I regularly write articles on [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
