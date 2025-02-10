@@ -7,15 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NjokiWambugu?tab=repositories](https://github.com/NjokiWambugu?tab=repositories)
 
-- 📝 I write articles on [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
+- 📝 Here is my medium [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
 
-- 💬 Ask me about **Data and Creative Strategy**
+- 💬 Ask me about **Data and System Efficiency**
 
 - 📫 How to reach me **maurinewamb@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/njoki-wambugu/](https://www.linkedin.com/in/njoki-wambugu/)
 
-- ⚡ Fun fact **I am a creative on the side**
+- ⚡ Fun fact **I am a heliophile☀️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
