@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Njoki Wambugu</h1>
-<h3 align="center">Passionate data analyst and aspiring project manager dedicated to transforming data into impactful insights that drive success.</h3>
+<h3 align="center">Passionate about data storytelling for impact.</h3>
 
 - 🌱 I’m currently learning **Project Management **
 
