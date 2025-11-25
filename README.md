@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Njoki Wambugu</h1>
+<h1 align="center">Hallo! I'm Maurine Njoki</h1>
 <h3 align="center">Passionate about projects, operations and data.</h3>
 
 - 🌱 I’m currently learning ** modern Project Management **
