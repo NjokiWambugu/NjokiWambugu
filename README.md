@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Njoki Wambugu</h1>
-<h3 align="center">Passionate about data storytelling for impact.</h3>
+<h3 align="center">Passionate about projects, operations and data.</h3>
 
-- 🌱 I’m currently learning **Project Management **
+- 🌱 I’m currently learning ** modern Project Management **
 
-- 💻 Here is my porfolio project [https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md](https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md)
+- 💻 Here is my data porfolio project [https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md](https://github.com/NjokiWambugu/data_analysis_porfolio_project/blob/main/README.md)
 
 - 👨‍💻 All of my projects are available at [https://github.com/NjokiWambugu?tab=repositories](https://github.com/NjokiWambugu?tab=repositories)
 
-- 📝 Here is my medium [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
+- 📝 I write sometimes [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
 
-- 💬 Ask me about **Data and System Efficiency**
+- 💬 Ask me about **People and Processes**
 
 - 📫 How to reach me **maurinewamb@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/njoki-wambugu/](https://www.linkedin.com/in/njoki-wambugu/)
 
-- ⚡ Fun fact **I am a heliophile☀️**
+- ⚡ Fun fact about me **I am a heliophile☀️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
