@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NjokiWambugu?tab=repositories](https://github.com/NjokiWambugu?tab=repositories)
 
-- 📝 I write sometimes [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
+- 📝 I sometimes write at [https://medium.com/@maurinewrites](https://medium.com/@maurinewrites)
 
 - 💬 Ask me about **People and Processes**
 
